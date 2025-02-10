@@ -46,12 +46,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
  
  <br>
  
-<h3 align="left">Connect with me!</h3>
- 
-<div> 
-  <a href = "richarddworks@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/richard-marques-ab5b6424b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+
   <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Richard-Marques/Richard-Marques/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Richard-Marques/Richard-Marques/output/github-contribution-grid-snake-dark.svg">
