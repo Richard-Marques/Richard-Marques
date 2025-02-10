@@ -2,7 +2,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=Bem+vindo+ao+meu+perfil+!!+%3AP" alt="Typing SVG" /></a>
 </div>
 
-<img align="center" alt="" src="./src/header-gif.gif">
+<img align="center" alt="" src="./src/header.gif">
 
  <div>
    <a href="https://github.com/Richard-Marques">
