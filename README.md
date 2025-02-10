@@ -4,6 +4,14 @@
 
 <img align="center" alt="" src="./src/header.gif">
 
+
+<p align="center">Estudante de Análise e Desenvolvimento de Sistemas. Atualmente estudando Q.A com estudo em UX UI paralelamente.
+Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
+  
+#
+
+<img align="right" alt="" height="190px" src="./src/study.gif">
+
  <div>
    <a href="https://github.com/Richard-Marques">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Richard-Marques&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
