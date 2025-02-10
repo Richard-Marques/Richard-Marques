@@ -13,6 +13,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 
 <img align="right" alt="" height="190px" src="./src/study.gif">
 
+
  <div>
    <a href="https://github.com/Richard-Marques">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Richard-Marques&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -27,7 +28,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
  
  <br>
  
-  ### Me siga nas redes abaixo!
+<h3 align="left">Connect with me!</h3>
  
 <div> 
   <a href = "richarddworks@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
